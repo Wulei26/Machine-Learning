@@ -1,2 +1,2 @@
 # Machine-Learning
-introducing basic concept of ML and DL
+introducing basic concepts of ML and DL
